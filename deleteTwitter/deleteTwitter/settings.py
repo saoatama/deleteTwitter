@@ -25,7 +25,7 @@ SECRET_KEY = '(bk9h70k5sd7z_k=u$@13zu*ke0ck3u$!&#-wac7g&65x#p08!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["delete-twitter.com"]
 
 
 # Application definition
